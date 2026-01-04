@@ -1,0 +1,9 @@
+Name:                Harriet
+ID:                  0
+Importance:          2
+POV:                 True
+Motivation:          Wanting to keep her betrothal on plan because she doesn't think she is worthy of another man.
+Goal:                Retrieve her betrothed from another kingdom, and get back home safe
+Conflict:            Gets into a big fight with her home kingdom's future princess - she became jealous of Harriet when her betrothed 3rd prince wouldn't stop obsessing over her.
+Epiphany:            During her time in the other kingdom, she realizes that she is worthwhile even with her looks. The count guesting her betrothed, the king, and a visiting foreign prince are all enamored of her dedication, sword skill, and heart.
+Color:               #d387e7
