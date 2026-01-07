@@ -1,0 +1,32 @@
+title:          Meeting a Bandit King
+ID:             13
+type:           folder
+summarySentence:The bandit king
+summaryFull:    First encounter with the bandit king and his men. 1 king, 4 loyal men, 1 new guy they don't like
+                
+                During the ambush the carriage driver is wounded with an arrow, along with the single guard.
+                Orders everyone out
+                demands everyone give their belongings
+                merchant tries to sell her out and flee
+                gets caught by the archers in the woods
+                
+                She refuses to give her belongings, says she needs to keep some for her travels and her ransom payment
+                1 new guy doesn't like her mouth, tries to attack her.
+                She draws her sword? Has it ready?
+                Fights him.
+                Tries to stay true to sword form, but he feints in a way that is illegal and tries to throw some dirt at her.
+                She blocks it, and stabs him.
+                He quickly perishes.
+                
+                She looks at the rest of them
+                says she can give what she doesn't need, but that she must keep enough to travel to the capital and pay his ransom
+                How much
+                500g of gold
+                whistles
+                you must really like him
+                Somewhat
+                ok, we'll let you go, along with the driver and the guard
+                
+compile:        2
+
+

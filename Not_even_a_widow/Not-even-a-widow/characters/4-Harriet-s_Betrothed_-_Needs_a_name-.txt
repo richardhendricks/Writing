@@ -1,0 +1,15 @@
+Name:                Harriet's Betrothed - Needs a name!
+ID:                  4
+Importance:          2
+POV:                 True
+Motivation:          Wants to impress his father about his martial skills.
+                     Disdainful towards Harriet, sees women as less than men.
+                     Once he sees her sacrifice a king's favor to save his men, he becomes dedicated to her.
+                     Wants to protect her, but also sees that she is powerful on her own.
+                     Uses his family's spies to figure out who tried to attack her
+                     Doesn't like the "Harriet the Hearse" name her retainers have spread.
+                     22 at the start of the story. He graduated just as she entered the academy
+Goal:                Wants to be worthy of his father's domain, and be a good lord to his people.
+Conflict:            Initially doesn't care for Harriet, and considers her an idiot girl.
+Epiphany:            Harriet rescues his men who have been doing hard labor in the mines.
+Color:               #d3d2f1

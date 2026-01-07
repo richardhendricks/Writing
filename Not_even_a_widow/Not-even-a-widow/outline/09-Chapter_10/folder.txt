@@ -1,6 +1,0 @@
-title:          Chapter 10
-ID:             55
-type:           folder
-compile:        2
-
-

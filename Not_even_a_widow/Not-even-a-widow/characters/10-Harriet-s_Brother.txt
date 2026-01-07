@@ -1,0 +1,6 @@
+Name:                Harriet's Brother
+ID:                  10
+Importance:          0
+POV:                 True
+Motivation:          Died during a plague, years ago.
+Color:               #c3d1c3

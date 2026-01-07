@@ -1,6 +1,7 @@
 Title:          Not Even a Widow
 Subtitle:       The horse-faced heroine rescues her betrothed
 Volume:         1
-Genre:          Young Adult Fantasy
+Genre:          Young Adult Fantasy, Romance
+License:        https://creativecommons.org/licenses/by-sa/4.0/
 Author:         Richard Hendricks
 Email:          richardhendricks@pobox.com

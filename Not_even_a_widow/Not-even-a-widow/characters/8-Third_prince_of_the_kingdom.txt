@@ -1,0 +1,5 @@
+Name:                Third prince of the kingdom
+ID:                  8
+Importance:          1
+POV:                 True
+Color:               #8282b1

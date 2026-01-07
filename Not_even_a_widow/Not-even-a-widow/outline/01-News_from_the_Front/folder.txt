@@ -1,0 +1,16 @@
+title:          News from the Front
+ID:             1
+type:           folder
+summarySentence:Harriet receives news
+summaryFull:    Harriet is called out from class to the office
+                her parents are there, and notify her that her betrothed has been captured
+                His family won't pay the ransom
+                They need her home ASAP to get her back on the social circuit to try and find a new betrothed
+                She wants her current one because he's the only one who didn't care about her looks (didn't care much about anything tbh)
+                Flashback to her father's campaign with her betrothed's father
+                promise they made to make sure their kids gets married
+                didn't hjappen in time for her betrothed's elder brother, but she and him are closer in age. he is older and has already begun work as a knight-lieutenant
+POV:            0
+compile:        2
+
+

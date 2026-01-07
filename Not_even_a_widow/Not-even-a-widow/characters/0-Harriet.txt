@@ -2,8 +2,9 @@ Name:                Harriet
 ID:                  0
 Importance:          2
 POV:                 True
-Motivation:          Wanting to keep her betrothal on plan because she doesn't think she is worthy of another man.
+Motivation:          Wanting to keep her betrothal on plan because she doesn't think she is worthy of another man. 16 years old at the start of the story.
 Goal:                Retrieve her betrothed from another kingdom, and get back home safe
 Conflict:            Gets into a big fight with her home kingdom's future princess - she became jealous of Harriet when her betrothed 3rd prince wouldn't stop obsessing over her.
 Epiphany:            During her time in the other kingdom, she realizes that she is worthwhile even with her looks. The count guesting her betrothed, the king, and a visiting foreign prince are all enamored of her dedication, sword skill, and heart.
+Paragraph Summary:   Nicknamed "Horse-faced Harriet" at the Academy. Called Harriet the Warhorse by the eastern king. Her retainers start rumors about her calling her Harriet the Hearse
 Color:               #d387e7

@@ -1,0 +1,14 @@
+Name:                Bandit King - Needs a name!
+ID:                  3
+Importance:          1
+POV:                 True
+Motivation:          A former baron of the cloth's fourth son.  Had become a knight in order to win enough favor to someday get his own family.  Was betrayed by his kingdom (same as harriet's? Another?) and left behind to become a slave. Him and his men escaped and became pretty terrible brigands.
+                     Becomes enamoured of Harriet the first time he meets her, and sees her as worthy of his trust and honor.
+                     After their second meeting and swearing to Miratha that he would protect Harriet, he ends up falling for Miratha.
+                     In his later 30's now.
+Goal:                Trying to keep his men alive and fed.
+                     
+                     Becomes Harriet's first retainer when she pays him the full amount on their second meeting.
+                     
+                     Shows up at her house after she's attacked at the festival.
+Color:               #9095c9

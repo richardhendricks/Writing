@@ -1,6 +1,0 @@
-Name:                Miratha de Glacie`
-ID:                  1
-Importance:          1
-POV:                 True
-Motivation:          She is Harriet's maid from her birth. Originally an illegitamate daughter
-Color:               #ceb4f9

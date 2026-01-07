@@ -1,0 +1,16 @@
+title:          The Way East
+ID:             7
+type:           folder
+summarySentence:On the way to the port
+summaryFull:    She can't go directly to the eastern kingdom
+                preparataions to travel
+                gather her dowry
+                bring along her maid
+                hire a coach
+                Has to go to a kingdom southeast, take a boat to the eastern kingdom capital along the coastline
+                there is a merchant in the carriage with her. Red haired, Tall, thin, hat 40's to 50's. He will attempt to betray her. Has a couple of suitcases.
+                Camps overnight in the woods along the way.
+                Mirantha makes dinner for everyone - merchant doesn't care for it. Guard and carriage driver like it though.
+compile:        2
+
+

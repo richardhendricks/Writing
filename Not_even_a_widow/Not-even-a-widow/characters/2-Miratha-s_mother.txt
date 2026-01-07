@@ -1,0 +1,10 @@
+Name:                Miratha's mother
+ID:                  2
+Importance:          0
+POV:                 True
+Motivation:          A former cook in a baron's house. Was seduced by his second son into having an affair. After he was killed in combat, she was driven from the house and had Miratha on her own. 
+                     Works now at a small restaurant in her 50's. Receives most of Miratha's pay and saves and invests it as shredly as possible.
+                     Over time, she has turned it into quite the nest egg, unknown to Miratha. She hopes to one day use it as a dowry for her daughter.
+                     She does not know that her daughter had a miscarriage, only that she was kicked out of the Merchant's family - she suspects there was an affair but Miratha never told her.
+Goal:                To give Miratha the happiness she deserves.
+Color:               #afbdb6

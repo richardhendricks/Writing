@@ -1,0 +1,5 @@
+Name:                Harriet's Mother
+ID:                  6
+Importance:          0
+POV:                 True
+Color:               #b4a79e

@@ -1,4 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <opml version="1.0">
-  <body/>
+  <body>
+    <outline name="Noble Academy" ID="0" description="Where Harriet is currently.&#10;Nobles enter for free, commoners can pay.&#10;Enter at 13, do 3 years at beginner, then 3 years at advanced.&#10;&#10;Harriet leaves academy at 16 to rescue her betrothed, has to repeat the 3rd year.&#10;She entered at 13, just as her betrothed graduated at 19. "/>
+    <outline name="Harriet's Family" ID="1" description="Her father was a minor noble who ended up with a small barony after the northern subjugation campaign. He never managed to make much of it. He sees his failures as reflected by his ugly daughter.&#10;&#10;Her mother was a rich merchant's dauighter from the north. She's shrewd, but loves Harriet a lot.&#10;&#10;Her elder brother died from a plague, he was 5 years older than her. Died when she was 7, he didn't get to go to the Academy.&#10;&#10;">
+      <outline name="Questions" ID="2" description="How did a kingdom founded by a warrior and his adventurer queen end up not letting women fight?&#10;Perhaps where they emigrated from in the east, the women weren't allowed to fight there either and the tradition was too strong."/>
+    </outline>
+  </body>
 </opml>

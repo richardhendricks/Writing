@@ -1,0 +1,6 @@
+Name:                Prince's betrothed
+ID:                  7
+Importance:          1
+POV:                 True
+Motivation:          Jealous of the attention Harriet is receiving from the prince, orders a hit on her.
+Color:               #a79ea5

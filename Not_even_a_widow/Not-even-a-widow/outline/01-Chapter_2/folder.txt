@@ -1,6 +1,0 @@
-title:          Chapter 2
-ID:             7
-type:           folder
-compile:        2
-
-

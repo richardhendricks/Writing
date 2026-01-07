@@ -1,0 +1,9 @@
+Name:                Sword of Thorns
+ID:                  11
+Importance:          0
+POV:                 True
+Motivation:          It loves to fight, and especially loves hurting and killing
+Goal:                To fight more, to make more people feel pain.
+Conflict:            Harriet is told about how she is crueler now, and she eventually is taught how to exert her will over the sword.
+Epiphany:            Sees Harriets future as a warrior queen.
+Color:               #a9dfc9

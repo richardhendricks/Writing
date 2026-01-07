@@ -1,0 +1,11 @@
+Name:                The Three Criminals
+ID:                  9
+Importance:          0
+POV:                 True
+Motivation:          Paid to rough up Harriet, potentially to kill her
+Conflict:            Each is killed by Harriet
+Epiphany:            They realize that Harriet will try to do right by their families
+Phrase Summary:      One's a nice boy
+                     one's a typical ruffian
+                     one's the asshole
+Color:               #d4aad7

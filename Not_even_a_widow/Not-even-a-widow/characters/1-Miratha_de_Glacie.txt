@@ -1,0 +1,12 @@
+Name:                Miratha de Glacie
+ID:                  1
+Importance:          1
+POV:                 True
+Motivation:          She is Harriet's maid from her birth. Originally an illegitamate daughter between a cook and a baron's second son. She herself got pregnant at 15 while working for a merchant who she fell in love with. When she had a miscarriage he tossed her aside as useless to his needs.  Harriet's grandmother on her mother's side found out about this and took her in as a wet nurse to Harriet because Harriet's mother was sickly. Miratha eventually became Harriet's maid, and her close confidante.
+                     
+                     Has no battle training initially, but after falling in love with the Bandit King, he starts teaching her some basics of defense.
+Goal:                Her goal is protect Harriet at all costs.  She sees Harriet as a manifestation of the baby she lost. She would defend her with her everything.
+                     
+                     Later after falling in love with the Bandit King, she will decide to marry him once she finds a replacement maid for Harriet.
+Conflict:            Her love for Harriet and her love for her Bandit King will cause her to choose between them. Harriet orders her to live a happy life. Harriet makes sure the Bandit King chooses Miratha if the need arises.
+Color:               #ceb4f9
