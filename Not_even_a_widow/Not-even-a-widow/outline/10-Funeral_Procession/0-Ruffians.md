@@ -6,7 +6,7 @@ summaryFull:    Lady you dont need to do this for a bunch of ruffians.
                 
                 Her retainer steps up and speaks about the trouble after killing.
                 
-                She has killed 4 men. Not on a mad battlefield, but up close and in person. She has to hope that doesnt cause her to.lose her humanity. Is she a killer now? Will she hurt someone she cares about? It can weigh heavy on the soul. 
+                She has killed 4 men. Not on a mad battlefield, but up close and in person. She has to hope that doesnt cause her to.lose her humanity. Is she a killer now? Will she hurt someone she cares about? It can weigh heavy on the soul.
                 
 compile:        2
 

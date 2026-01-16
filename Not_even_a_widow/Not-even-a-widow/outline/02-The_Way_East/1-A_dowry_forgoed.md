@@ -7,9 +7,9 @@ summaryFull:    May we pay the ransom ourselves? For a worthless man who doesn't
                 
                 1 kg of gold
                 
-                My dowry is enough, is it not? 
+                My dowry is enough, is it not?
                 
-                Her father looks at her, narrows his eyes. What are you thinking? What would be left if you use your dowry to buy a husband? 
+                Her father looks at her, narrows his eyes. What are you thinking? What would be left if you use your dowry to buy a husband?
                 
                 What are my options?
                 

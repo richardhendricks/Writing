@@ -9,7 +9,7 @@ summaryFull:    Harriet decides to visit an orphanage before journeying home
                 She asks to see her
                 Her skills are in embroidery
                 Decides to take her too
-                Will apprentice her to the seamstress 
+                Will apprentice her to the seamstress
 compile:        2
 
 

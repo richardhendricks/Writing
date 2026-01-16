@@ -8,7 +8,7 @@ summaryFull:    What about your maid
                 Will let coachmen and wounded guards go free in honor of her payment
                 Gives back some of her money as a dowry, and to remember his name fondly
                 Unless you wish to be my bandit queen?
-                Maid waves and gives him a  doki doki moment 
+                Maid waves and gives him a  doki doki moment
                 
                 Maid cooks dinner for everyone
                 
