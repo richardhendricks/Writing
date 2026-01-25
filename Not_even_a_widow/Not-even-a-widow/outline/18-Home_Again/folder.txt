@@ -1,4 +1,4 @@
-title:          A New Semester Begins
+title:          Home Again
 ID:             72
 type:           folder
 compile:        2

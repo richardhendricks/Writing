@@ -1,0 +1,8 @@
+Name:                Swordmaster
+ID:                  12
+Importance:          1
+POV:                 True
+Motivation:          Wants to train well adjusted nobles and commoners how to fight with bladed weapons so they can contribute to society.
+Goal:                Wants to make sure Harriet doesn't lose sight of her own humanity. Worried about what the sword represents and what Harriet has done with it.
+Paragraph Summary:   Man in his later 40's.  Used to be a knight captain. Fought in a major skirmish, had to kill some men. Still has nightmares about it. Wants to train these kids so they have a better chance of surviving the next war.
+Color:               #f6c6e7

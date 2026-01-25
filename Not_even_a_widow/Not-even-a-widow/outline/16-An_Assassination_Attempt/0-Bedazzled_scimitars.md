@@ -1,7 +1,7 @@
 title:          Bedazzled scimitars
 ID:             75
 type:           md
-summaryFull:    Assassination attempt on the prince.
+summaryFull:    Assassination attempt on the prince. Two assassins attempt to kill the prince while they are out in town. His two bodyguards protect the prince
                 
                 he uses a pair of gorgeously decorated bejeweled scimitarss
                 

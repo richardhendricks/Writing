@@ -1,4 +1,4 @@
-Name:                Bandit King - Needs a name!
+Name:                Bandit King - Andreas
 ID:                  3
 Importance:          1
 POV:                 True
