@@ -1,0 +1,6 @@
+Name:                Count's older daughter
+ID:                  13
+Importance:          0
+POV:                 True
+Motivation:          Prefers the sabre.  Intrerested in Harriet, but mostly a girls-girl. Since she's the oldest, the count's domain will pass to her offspring.
+Color:               #da81e7

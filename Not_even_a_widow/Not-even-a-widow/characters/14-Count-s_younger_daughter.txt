@@ -1,0 +1,7 @@
+Name:                Count's younger daughter
+ID:                  14
+Importance:          0
+POV:                 True
+Motivation:          Totally enamored of Harriet. Listens to her story with wide eyes. Understands she'll probably be married off to some merchant or border baron, and wants to learn swordfighting to protect herself.
+                     Starts off with dual short swords.
+Color:               #bd8fea
