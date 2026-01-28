@@ -25,7 +25,7 @@ summaryFull:    Trouble in her domain with minor bandits
                 
                 She returns the bodies of the two archers BK killed,  along with the leader.
                 
-                Nearby county's village for the two archers. 
+                Nearby county's village for the two archers.
                 
                 Sons of families there who were hunters, but cpuldbt stay ahead of the taxes
                 Q
@@ -37,7 +37,7 @@ summaryFull:    Trouble in her domain with minor bandits
                 Harriet convinces him to lower taxes or else he wont have any peasants left .
                 
                 Bandit leader in a different village
-                Mother is hated because her son was pretty evil while there, he was finally driven out, but she is still ostracized. Mayor feels bad for her but cant do much to help except give her food on occasion. 
+                Mother is hated because her son was pretty evil while there, he was finally driven out, but she is still ostracized. Mayor feels bad for her but cant do much to help except give her food on occasion.
                 Should she come with Harriet? Should she use her Harriet the Hearse rumors to try and clean up his act so the villagers stop abusing her? Her son died in myservice. Disrespecting her sacrifice is disrespecting me. Thank you my lady.
 compile:        2
 

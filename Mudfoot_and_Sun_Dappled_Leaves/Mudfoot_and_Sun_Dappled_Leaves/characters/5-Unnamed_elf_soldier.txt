@@ -1,0 +1,6 @@
+Name:                Unnamed elf soldier
+ID:                  5
+Importance:          0
+POV:                 True
+Motivation:          Stabs the elf boy in self defense when he attacks the soldier after seeing the pendant he made for Mudfoot on the ground.
+Color:               #d6edd5

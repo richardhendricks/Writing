@@ -1,0 +1,7 @@
+Name:                Sun Dappled Leaves
+ID:                  1
+Importance:          2
+POV:                 True
+Motivation:          An elf teenager who thinks he is stronger and more capable than he actually is.
+Conflict:            Wants to be treated as an adult. When doing unauthorized hunting, he gets caught by a bugbear that chases him off a cliff.
+Color:               #b0899f

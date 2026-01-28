@@ -7,7 +7,7 @@ summaryFull:    Her initial meeting with her betrothed
                 
                 She is wearing long gloves and/or a long sleeved blouse/jacket
                 
-                He acts like a jerk at first. Disappointed his family didn't come for him. 
+                He acts like a jerk at first. Disappointed his family didn't come for him.
                 
                 He didn't realize how high the ransom was set, Harriet tells him, and he is a little flabbergasted.  Finally asks why she came.
                 
@@ -23,7 +23,7 @@ summaryFull:    Her initial meeting with her betrothed
                 
                 The count goes to knock on Harriet's door and asks to see her arms.
                 
-                She has some pretty bad bruises and cuts. 
+                She has some pretty bad bruises and cuts.
                 
                 He asks Do you love him?
                 

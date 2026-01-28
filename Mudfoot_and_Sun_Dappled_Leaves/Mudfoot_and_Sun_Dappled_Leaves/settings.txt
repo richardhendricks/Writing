@@ -7,13 +7,13 @@
         "color": "#926239",
         "image": "writingdesk"
     },
-    "corkSizeFactor": 82,
+    "corkSizeFactor": 100,
     "corkStyle": "new",
     "countSpaces": true,
     "defaultTextType": "md",
     "dict": "PyEnchant:en_US",
     "dontShowDeleteWarning": false,
-    "folderView": "text",
+    "folderView": "cork",
     "frequencyAnalyzer": {
         "phraseMax": 5,
         "phraseMin": 2,
@@ -28,11 +28,7 @@
     },
     "lastTab": 0,
     "openIndexes": [
-        0,
-        [
-            "158"
-        ],
-        null
+        ""
     ],
     "outlineViewColumns": [
         0,

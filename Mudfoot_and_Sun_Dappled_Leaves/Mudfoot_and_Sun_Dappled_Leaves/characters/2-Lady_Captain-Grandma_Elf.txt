@@ -1,0 +1,6 @@
+Name:                Lady Captain/Grandma Elf
+ID:                  2
+Importance:          1
+POV:                 True
+Motivation:          As Lady Captain, her role is to keep the peace in the elven kingdom. Eventually ordered to kill the goblins in their village because of cross-border raiding. After the subjugation, she helps the lovers reunite and sees to their safety. As grandma, she is the narrator of our story.
+Color:               #a0c5d7

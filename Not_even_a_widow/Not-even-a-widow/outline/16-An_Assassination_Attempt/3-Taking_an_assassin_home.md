@@ -7,7 +7,7 @@ summaryFull:    brings home Dororo.
                 Assassin's village is in the high mountains, do sky burials up there.
                 Villagers ask about his older brother
                 She doesnt know, he never mentioned him
-                During the ceremony, in the boulders nearby someone dressed in a gray claok with newr perfect camouflage. 
+                During the ceremony, in the boulders nearby someone dressed in a gray claok with newr perfect camouflage.
                 Blue eyes visible under the hood
                 Swears venegance? Swears to learn more about her? Vengeance seems petty? Maybe wants to understand this girl who kills and feels for her victims, unlike how he can kill and feel nothing.
                 

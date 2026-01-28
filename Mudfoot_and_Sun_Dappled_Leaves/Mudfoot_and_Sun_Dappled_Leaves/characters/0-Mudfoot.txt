@@ -1,0 +1,6 @@
+Name:                Mudfoot
+ID:                  0
+Importance:          2
+POV:                 True
+Motivation:          A young teen goblin girl. She's very energetic when not being cautious. One of her feet is black instead of the usual green, hence her name.
+Color:               #ca81e2

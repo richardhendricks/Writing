@@ -1,0 +1,6 @@
+Name:                Older little girl
+ID:                  3
+Importance:          0
+POV:                 True
+Motivation:          A little girl of about 10, old enough to think she's a grownup now.
+Color:               #9cc9f2

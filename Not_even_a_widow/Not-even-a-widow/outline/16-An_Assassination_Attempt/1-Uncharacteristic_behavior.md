@@ -11,7 +11,7 @@ summaryFull:    Gets a cut on her face while fighting an attacker in the Southla
                 
                 Her men see this and are appalled. Her retainers know the sword is special,  but her betrothed's men dont and have heard only the rumors of Harriet the Hearse.
                 
-                When she is stopped by her fiance she realizes the sword was making her do this. At that, she mercy-kills the gutted assassin. 
+                When she is stopped by her fiance she realizes the sword was making her do this. At that, she mercy-kills the gutted assassin.
                 
                 The other assassin decides to back away from the party, and tells Harriet her opponent's name, hometown, funeral rites, and then departs down an alleyway as the town guard arrives. Name is Dororo, his family comes from a mining village on the cliffs to the south where they do a funeral pyre on the hill above the village, when the wind  blows away from town.
                 

@@ -1,0 +1,6 @@
+Name:                Younger little girl
+ID:                  4
+Importance:          0
+POV:                 True
+Motivation:          About 7 or 8, has missing teeth so speaks with a small lisp.  Looks up to her big sister and loves her grandma and her stories.
+Color:               #dde3dc

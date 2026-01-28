@@ -16,7 +16,7 @@ summaryFull:    Martine's body is up on the carriage, wrapped up.
                 
                 After a while the festivities slow down, and Harriet and Miratha begins singing the song the Adventurer's Wife.
                 
-                As Harriets finishes the last words of yhe song into silence arpund the crackling bonfire, 
+                As Harriets finishes the last words of yhe song into silence arpund the crackling bonfire,
                 
                 I never really cared for this song when I was little. My mother would sing it by herself while my father was away on campaigns for the old King. Young me thought the song should be loud, and about a proud wife seeing her victorious husband home.
                 
@@ -30,12 +30,12 @@ summaryFull:    Martine's body is up on the carriage, wrapped up.
                 
                 I'm so sorry.
                 
-                Oh don't weep for me. Cry for my mother who had to sing that song twice without anyone coming home to her. 
+                Oh don't weep for me. Cry for my mother who had to sing that song twice without anyone coming home to her.
                 
                 Mirantha leans towards BK and gives him a kiss.
                 The BK gets red faced and then jumps up. "Cmon boys, what's a wake without proper dancing!" The retainers immediately start clapping a beat as BK takes Miratha by the hand and pulls her up, swinging her into a common tavern dance. The rest of the men jump up and partner off with each other or the new apprentices.
                 
-                Once the men start clapping and dancing around the fire, the older apprentice maid perks up and starts doing a jig with backflips and handstands.  Clearly her family had given her some stage training before she ended up on the streets. 
+                Once the men start clapping and dancing around the fire, the older apprentice maid perks up and starts doing a jig with backflips and handstands.  Clearly her family had given her some stage training before she ended up on the streets.
                 
                 One of the BKs older men gets on one knee before the smallest maid putting out a hand to dance, who giggles and puts out a hand. He picks her up into the air and dances around with her lifting her up in the air.
                 
@@ -50,10 +50,10 @@ summaryFull:    Martine's body is up on the carriage, wrapped up.
                 ---
                 After the festivities have died down, the retainers have setup bedrolls around the firepit and started snoring loudly.  The girls have entered the carriage to sleep inside, with Harriet and her fiance(?) on one bench, the seamstress girl and the two new apprentice maids piled up on the other.
                 
-                Outside, BK and Mirantha are still quietly talking on the log while taking watch. BK grabs her hand, and proposes to her. Mirantha wants to know why, she's just a maid, he's a lord of a lost barony he can reclaim. I fell in love with you the minute you agreed to cook for my men. They smile, and kiss.  
+                Outside, BK and Mirantha are still quietly talking on the log while taking watch. BK grabs her hand, and proposes to her. Mirantha wants to know why, she's just a maid, he's a lord of a lost barony he can reclaim. I fell in love with you the minute you agreed to cook for my men. They smile, and kiss.
                 
-                After they part, he says "I made a vow to serve Harriet for life." 
-                "I know, I have that same vow in my heart." 
+                After they part, he says "I made a vow to serve Harriet for life."
+                "I know, I have that same vow in my heart."
                 
                 "But...Harriet made me promise yesterday on my honor, my blood, and my soul to always put your safety first."
                 "What?"
@@ -61,7 +61,7 @@ summaryFull:    Martine's body is up on the carriage, wrapped up.
                 "She said that if the need comes, I am to save you over her. If the time ever comes that there needs to be a choice made, to put you first..."
                 "That silly girl, how could I ever live without her?"
                 
-                "She loves you very much, Miratha. More than her own mother."  
+                "She loves you very much, Miratha. More than her own mother."
                 Mirantha hugs him.
                 She says "If you ever leave her to save me I will cut off your balls and feed them to you"
                 He laughs, reaches down and kisses her. "I know"
